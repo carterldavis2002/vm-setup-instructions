@@ -1,1 +1,1 @@
-# vm-setup-tutorial
+# Virtual Machine First-time Setup Instructions
